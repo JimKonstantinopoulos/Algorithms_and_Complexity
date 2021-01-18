@@ -28,7 +28,7 @@
 
    1. Open Visual Studio
    
-   2. Select clone a repository
+   2. Select "Clone a repository"
    
    3. Copy paste the `URL (https://github.com/JamesKonstantinopoulos/Algorithms_and_Complexity.git)` of the repository online
    
