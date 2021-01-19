@@ -34,7 +34,7 @@
    
    4. Click Run
    
-   5. In case .sln doesn't work (same in my case) follow steps 6, 7 and 8
+   5. In case .sln doesn't work (same in my case) follow steps below...
    
    6. Open cmd and run `cd (Your path to code file)`
    
