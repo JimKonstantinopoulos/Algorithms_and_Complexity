@@ -41,7 +41,3 @@
    7. run `g++ (include all cpp files you wanna compile seperated by space) -o (the name of your executable file .exe)`
    
    8. run `.exe`
-
----
-
-[Site of Project](https://jameskonstantinopoulos.github.io/Algorithms_and_Complexity/ "Project page")
